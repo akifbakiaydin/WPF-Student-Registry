@@ -1,4 +1,4 @@
-# 📋 Student Number Registry (WPF)
+# 📋 WPF Student Registry
 
 Small WPF practice application: add, edit and remove student records (name, surname, number) in a list view.
 
