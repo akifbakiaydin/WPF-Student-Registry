@@ -7,7 +7,7 @@ Small WPF practice application: add, edit and remove student records (name, surn
 
 ## 🚀 Running
 
-Open `deneme 10.sln` in Visual Studio 2022 (.NET 6 desktop workload) and run.
+Open `StudentRegistry.sln` in Visual Studio 2022 (.NET 6 desktop workload) and run.
 
 ---
 
